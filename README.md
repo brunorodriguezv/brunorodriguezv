@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**brunorodriguezv/brunorodriguezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Here are some ideas to get you started:
+I am Bruno Rodriguez 😃. I am from Montevideo, Uruguay and currently learning different skills 🏫.I love to explore and learn about new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, Javascript, CSS ,Bootstrap, React**
+- Backend development using **MongoDB, NodeJS, Express**
+
+## Hello World!! 🤔
+- 💬 Ask me about anything and everything.
+- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
+
+
