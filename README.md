@@ -11,6 +11,6 @@ Talk to me about
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
+- 🎯 Portfolio site: [Portfolio]
 
 
