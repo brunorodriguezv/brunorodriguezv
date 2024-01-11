@@ -9,6 +9,10 @@ Talk to me about
 - Front-end development using **HTML, Javascript, CSS ,Bootstrap, React**
 - Backend development using **MongoDB, NodeJS, Express**
 
+## 📚 Studying
+- NextJS
+- TypeScript
+
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio]
