@@ -6,8 +6,8 @@ I am Bruno Rodriguez 😃. I am from Montevideo, Uruguay and currently learning 
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript, CSS ,Bootstrap, React**
-- Backend development using **MongoDB, NodeJS, Express**
+- Front-end development using **Javascript, Bootstrap, React, Astro, HTMX and React Native**
+- Backend development using **NodeJS, Express and NextJS**
 
 ## 📚 Studying
 - NextJS
